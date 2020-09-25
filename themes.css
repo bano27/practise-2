@@ -1,0 +1,36 @@
+#div1{background-image: url(image/logo2.jpg);}
+
+.container{ 	color: black;
+	background-color: red;
+	border-width: 4px;
+	box-sizing: border-box;
+	width: 77%;
+	margin: auto;
+	border-style: solid;
+	border-color: black;
+	text-align: center;
+	letter-spacing: 8px;
+	word-spacing: 7px;
+	 }
+
+.manchester{background-color: red;
+width: 77%;
+margin: auto;
+border-width: 4px;
+box-sizing: border-box;
+border-style: solid;
+border-color: black;
+padding: 30px 30px;}
+
+.stylesheet{background-color: red;
+color: black;
+border-width: 20px;
+box-sizing: border-box;
+border-style: solid;
+border-color: black;
+padding: 30px 30px;}
+
+#div2{background-color: black;
+display: flex;
+justify-content: center;
+align-items: center;}
